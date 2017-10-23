@@ -1,0 +1,31 @@
+{
+  "name": "hjs-sax2",
+  "version": "1.0.0",
+  "description": "NodeJS Sax2 driver for XML pull parser implementation (hjs-xmlpull and hjs-kxml2)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-sax2.git"
+  },
+  "keywords": [
+    "Sax2"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-sax2/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-sax2#readme",
+  "dependencies": {
+    "hjs-file": "^1.0.0",
+    "hjs-io": "^1.0.0",
+    "hjs-kxml2": "^1.0.0",
+    "hjs-xmlpull": "^1.0.0"
+  }
+}
