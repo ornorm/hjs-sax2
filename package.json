@@ -14,7 +14,9 @@
     "url": "git+https://github.com/ornorm/hjs-sax2.git"
   },
   "keywords": [
-    "Sax2"
+    "InputSource",
+    "DefaultHandler",
+    "SaxDriver"
   ],
   "author": "Aime Biendo <abiendo@gmail.com>",
   "license": "MIT",
